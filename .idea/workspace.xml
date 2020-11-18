@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6c05ca0-c09d-4840-9c5f-5107dd358ea7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ie2I9qYzuNnSSskZsdhjfReRNs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.attin.generics.g1Basic.Exercise" />
+      <recent name="com.attin.generics.g1Basic.Exercise.algorthmImpl" />
+      <recent name="com.attin.generics.G3BoundedUpperBounded" />
+      <recent name="com.attin.generics.g01" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.attin.generics.g1Basic.Exercise" />
+      <recent name="com.attin.generics" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.attin.generics.reflection" />
+      <recent name="com.attin.generics.g2Collections.exercise" />
+      <recent name="com.attin.generics.G6Exercise1" />
+      <recent name="com.attin.generics" />
+      <recent name="com.attin.generics.G3BoundedUpperBounded" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\training\generic\src\main\java\com\attin\generics\g2Collections\udemy" />
+      <recent name="D:\dev\training\generic\src\main\java\com\attin\generics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Reflection">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.generics.collection.exercise.App" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.generics.collection.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.generics.g1Basic.Exercise.LibraryApp" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.generics.basic.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.generics.collection.list.LinkedList" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.generics.collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.generics.collection.queue.MyPriorityQueue" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.generics.collection.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.generics.reflection.Reflection" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.generics.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="generics" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.attin.generics.GenericsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reflection" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.MyPriorityQueue" />
+        <item itemvalue="Application.LibraryApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c05ca0-c09d-4840-9c5f-5107dd358ea7" name="Default Changelist" comment="" />
+      <created>1602253654092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602253654092</updated>
+      <workItem from="1602253657210" duration="10728000" />
+      <workItem from="1602334464069" duration="18939000" />
+      <workItem from="1602504255876" duration="16533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="70" key="#App_(1)" timestamp="1602358538163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="70" key="#App_(1)/0.0.1536.824@0.0.1536.824" timestamp="1602358538163" />
+    <state x="361" y="70" width="814" height="731" key="#Intentions" timestamp="1602342926814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" width="814" height="731" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1602342926814" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1602283450828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602283450828" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602254858003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602254858003" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1602524884848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602524884848" />
+    <state x="447" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602358893984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1602358893984" />
+    <state x="536" y="271" width="508" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602504396978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="271" width="508" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1602504396978" />
+    <state x="566" y="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602336143803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1602336143803" />
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602286338984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1602286338984" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602502230303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602502230303" />
+    <state x="316" y="13" width="946" height="811" key="CommitChangelistDialog2" timestamp="1605695144586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="13" width="946" height="811" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605695144586" />
+    <state width="761" height="466" key="DebuggerActiveHint" timestamp="1602526043025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="761" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1602526043025" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602526783048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602526783048" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.1.center" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state width="1493" height="240" key="GridCell.Tab.1.left" timestamp="1602526784930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602526784930" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right" timestamp="1602526784931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602526784931" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1605695118198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605695118198" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1602502113868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1602502113868" />
+    <state x="490" y="154" width="949" height="524" key="StructurePopup" timestamp="1602518044161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="949" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1602518044161" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1602336457495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1602336457495" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605695025220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605695025220" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602334505957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602334505957" />
+    <state x="586" y="276" key="git4idea.rebase.GitRebaseDialog" timestamp="1605695171155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="276" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605695171155" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1602285353825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1602285353825" />
+    <state x="209" y="114" key="new project wizard" timestamp="1602526777312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602526777312" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602504415966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602504415966" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1602283829440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602283829440" />
+  </component>
+</project>
